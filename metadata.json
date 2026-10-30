@@ -1,0 +1,6 @@
+{
+  "name": "MEYZI BRO STOCK PROJECT",
+  "description": "Plateforme de stockage et gestion musicale officielle de MEYZI BRO (songs, albums, EP, mixtapes, instrumentales, versions audio, paroles et stems).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
